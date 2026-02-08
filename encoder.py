@@ -52,5 +52,5 @@ def encode_audio_to_bytebeat(file_path):
     print("="*60)
 
 # Path to your file
-file_path = r""#here
+file_path = r""#here+++++++++++++++++++++++++++++++++  WAV file only
 encode_audio_to_bytebeat(file_path)
