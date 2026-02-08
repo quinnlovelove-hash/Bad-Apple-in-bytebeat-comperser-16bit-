@@ -6,7 +6,7 @@ Pushing the boundaries of Browser-based audio synthesis. This project transforms
 
 1. **Generate the Data**:
    * Run the provided Python script `encoder.py` to generate the audio data file.
-   * Open the output file with **EmEditor** (Standard Notepad is not recommended due to file size).
+   * Open VS Code or any program capable of running Python and accessing your local files.
 2. **Setup Player**:
    * Go to [zopium.neocities.org](https://zopium.neocities.org/).
    * Click **Stop** before pasting to ensure stability.
