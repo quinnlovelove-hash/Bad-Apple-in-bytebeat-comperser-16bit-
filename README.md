@@ -20,7 +20,7 @@ Pushing the boundaries of Browser-based audio synthesis. This project transforms
 
 To run the encoder script, you need **Python 3.8+** and the following libraries:
 
-```bash
+#bash
 pip install numpy librosa soundfile
 
 
